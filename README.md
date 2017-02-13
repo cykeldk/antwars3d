@@ -1,4 +1,16 @@
-# antwars3d
+# Antwars - the 3D Project
+## Introduction
+### Purpose
+As great fans of the Battleships AI project during our first semester, we have been looking forward to taking an entire course in AI during the fourth semester.
+Unfortunately that course was not in high demand this year, but we wont let that stop us.
+This is why we decided to make our own 3D strategy game, and the Artificial intelligence to support it.
+So far the plan is to create an interface to which future students can write their own AI to run competitive simulations against other students AI.
+
+This project is an attempt to create both a 3D Real Time Strategy game and a match framework for future students at Copenhagen Business Academy to practice coding AI in.
+
+Jonathan, Rasmus & Michael
+
+
 
 ##Interaction
 
