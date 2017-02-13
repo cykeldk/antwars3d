@@ -37,10 +37,6 @@ warriors: slow and high health high damage
 
 scouts: fast, high viewrange low health.
 
-##Features
-- [ ] Ants and movement
-- [ ] Ants and abilities
-- [ ] 
 
 ##Platform
 
@@ -58,6 +54,23 @@ You are an ant colony that needs to survive and capture the most ressources and 
 
 Animated graphics in realistic view
 Scary (insects are scary)
+Sound will be dramatically
+
 
 ##Milestones
 
+ - [ ] Grid / Map / gameboard
+ - [ ] Ants
+ - [ ] Movement
+ - [ ] Controls (camera and interaction with ants)
+ - [ ] Abilties (Harvest ressources, Attack enemies & produce ants)
+ - [ ] AI Colony
+ - [ ] Implement a graphical environment (Grass, ants(3d-object) Food, etc)
+ 
+ ## Mockups
+ 
+ Image path
+ 
+ ##More
+ 
+ 
