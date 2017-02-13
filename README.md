@@ -38,6 +38,6 @@ warriors: slow and high health high damage
 scouts: fast, high viewrange low health.
 
 ##Features
-[]Ants and movement
-[]Ants and abilities
-[]
+[] Ants and movement
+[] Ants and abilities
+[] 
