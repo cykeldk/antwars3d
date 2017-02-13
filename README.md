@@ -41,3 +41,23 @@ scouts: fast, high viewrange low health.
 - [ ] Ants and movement
 - [ ] Ants and abilities
 - [ ] 
+
+##Platform
+
+PC - Windows
+
+##Technology
+
+Unity 3D and C#
+
+##Settings / Story
+
+You are an ant colony that needs to survive and capture the most ressources and kill all threats (other colonies, other insects)
+
+##Aestethics 
+
+Animated graphics in realistic view
+Scary (insects are scary)
+
+##Milestones
+
