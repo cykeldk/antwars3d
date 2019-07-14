@@ -75,7 +75,7 @@ Sound will be dramatically
  - [ ] Ants
  - [ ] Movement
  - [ ] Controls (camera and interaction with ants)
- - [ ] Abilties (Harvest ressources, Attack enemies & produce ants)
+ - [ ] Abilities (Harvest ressources, Attack enemies & produce ants)
  - [ ] AI Colony
  - [ ] Implement a graphical environment (Grass, ants(3d-object) Food, etc)
  
